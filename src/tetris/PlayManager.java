@@ -1,2 +1,4 @@
-package tetris;public class PlayManager {
+package tetris;
+
+public class PlayManager {
 }
